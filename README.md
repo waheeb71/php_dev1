@@ -1,8 +1,6 @@
 ## شرح المشروع 
 **المحتوى** : php  html python text
-**المحتوى** : php  html python text
-**المحتوى** : php  html python text
-**المحتوى** : php  html python text
+
 ```python:
 import turtl
 import random
@@ -46,9 +44,18 @@ def draw_face():
 ```
 ## القناه
 ```
-
-```
+---
+```url
 sudo apt update
 sudo apt install bettercap aircrack-ng iw python3-pip
 pip3 install termcolor
 ```
+---
+## screenshots
+![الصور](Screenshots/1.jpg)
+![الصور](Screenshots/2.jpg)
+---
+## موقع التواصل
+- [قناه اليوتيوب](https://www.youtube.com/@cyber_code1)
+- [قناه التلجرام](https://www.youtube.com/@cyber_code1)
+---
